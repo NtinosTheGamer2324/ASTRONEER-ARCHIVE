@@ -1,7 +1,7 @@
 # ASTRONEER-ARCHIVE
 An archive of ALPHA and PRE-ALPHA Versions or ASTRONEER
 
-#IMPORTANT:
+IMPORTANT:
 
 The versions here are NOT pirated/cracked. Steam is required to play them.
 You must own the game to play these versions.
