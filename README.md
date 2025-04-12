@@ -39,7 +39,7 @@ The Basebuilding Update (Patch 0.6.0) (February 22, 2018) : "https://drive.googl
 
 The Rover Update (Patch 0.7.0) (May 8, 2018) : "CURRENTLY BEING UPLOADED"
 
-The Crafting Update (Patch 0.10.1) (September 6, 2018) : "CURRENTLY BEING UPLOADED"
+The Crafting Update (Patch 0.10.1) (September 6, 2018) : "https://drive.google.com/file/d/1acK3XjnPCBwDGCG13S_CxX5pjOD0RMTg/view?usp=sharing"
 
 # VERSIONS COMMAND LIST
 
