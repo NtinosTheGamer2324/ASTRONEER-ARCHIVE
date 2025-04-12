@@ -35,7 +35,7 @@ https://www.youtube.com/watch?v=o0SZlbUuHUQ&t=1s
 
 The Research Update (Patch 0.5.0) (December 18, 2017) : "CURRENTLY BEING UPLOADED"
 
-The Basebuilding Update (Patch 0.6.0) (February 22, 2018) : "CURRENTLY BEING UPLOADED"
+The Basebuilding Update (Patch 0.6.0) (February 22, 2018) : "https://drive.google.com/file/d/15-_wukp8I9lojNK6gKyyi8bfEirH9Eiv/view?usp=sharing"
 
 The Rover Update (Patch 0.7.0) (May 8, 2018) : "CURRENTLY BEING UPLOADED"
 
