@@ -14,6 +14,6 @@ https://www.youtube.com/watch?v=o0SZlbUuHUQ&t=1s
 
 
 # PRE-ALPHA
-   Patch 117 (January 9, 2017) : "drive.google.com/file/d/133Q7PYhBRyf7IapbhPFkffr29zYZ3JJh/view?usp=sharing"
+   Patch 117 (January 9, 2017) : "https://drive.google.com/file/d/133Q7PYhBRyf7IapbhPFkffr29zYZ3JJh/view?usp=sharing" OR "atra://wwa.astro-archive.org/file/PATCH-117"
 
 # ALPHA
