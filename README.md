@@ -22,9 +22,24 @@ https://www.youtube.com/watch?v=o0SZlbUuHUQ&t=1s
 
    Patch 131 (March 17, 2017) : "https://drive.google.com/file/d/1M5IVGcVI43tmfty3P8qyOMNq8QUmO3j9/view?usp=sharing"
    
+   Augment & Research Curve Update (Patch 153) (April 21, 2017) : "https://drive.google.com/file/d/1SveKd138K3uinDUNqzgCaDb-4MnGKjyF/view?usp=sharing"
+   
+   Patch 196 (July 21, 2017) : "https://drive.google.com/file/d/1eetBo3ZvzyPNP9Cfo69UbyAnHmNwefWh/view?usp=sharing"
+
+   The Excavation Update (Patch 215) (October 12, 2017) : "CURRENTLY BEING UPLOADED"
+
+   Patch 221 (November 13, 2017) : "[https://drive.google.com/file/d/17fvbDK5IbX6dtL7TUZXumFWU2rB72Abs/view?usp=sharing"
+ 
+   
 # ALPHA
 
-CURRENTLY NONE
+The Research Update (Patch 0.5.0) (December 18, 2017) : "CURRENTLY BEING UPLOADED"
+
+The Basebuilding Update (Patch 0.6.0) (February 22, 2018) : "CURRENTLY BEING UPLOADED"
+
+The Rover Update (Patch 0.7.0) (May 8, 2018) : "CURRENTLY BEING UPLOADED"
+
+The Crafting Update (Patch 0.10.1) (September 6, 2018) : "CURRENTLY BEING UPLOADED"
 
 # VERSIONS COMMAND LIST
 
